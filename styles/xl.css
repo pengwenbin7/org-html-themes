@@ -63,7 +63,7 @@ body{
     height:100%;
     margin-left:300px;
     /* margin:auto; */
-    max-width:800px;
+    max-width:1066px;
     min-height:100%;
     padding:1.618em 3.236em;
 }
@@ -321,7 +321,8 @@ code{
     margin:1px 0 24px 0}
 
 pre.src{
-    /* color:#404040; */
+    color:#e1e1e0;
+    background-color: #2d3743;
     display:block;
     font-family:Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
     font-size:12px;

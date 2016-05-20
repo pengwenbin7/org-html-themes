@@ -1,0 +1,9 @@
+# -*- mode: org; -*-
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/readtheorg/css/htmlize.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="styles/xl.css"/>
+
+#+HTML_HEAD: <script src="http://cdn.bootcss.com/jquery/2.2.3/jquery.min.js"></script>
+#+HTML_HEAD: <script src="http://cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css"></script>
+#+HTML_HEAD: <script type="text/javascript" src="styles/lib/js/jquery.stickytableheaders.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="styles/readtheorg/js/readtheorg.js"></script>
